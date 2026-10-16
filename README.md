@@ -28,9 +28,9 @@
 
 ## Boîte à outils
 
-<img src="https://skillicons.dev/icons?i=python,pandas,numpy,jupyter,git,github,latex" alt="Outils" />
+<img src="https://skillicons.dev/icons?i=python,git,github,latex" alt="Outils" />
 
-PuLP · OR-Tools · Pyomo · NetworkX · GLPK
+pandas · NumPy · Jupyter · PuLP · OR-Tools · Pyomo · NetworkX · GLPK
 
 ## Projet phare
 
